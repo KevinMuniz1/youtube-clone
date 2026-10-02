@@ -1,0 +1,4 @@
+node_modules/
+DisneyRecording.mov
+google-cloud-sdk/
+.dockerignore
